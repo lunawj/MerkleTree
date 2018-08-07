@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533236515 source:/usr/local/MerkleTree/main.c
+	<stdio.h>
+	<string.h>
+	<openssl/md5.h>
+
