@@ -1,5 +1,12 @@
 # MerkleTree
-An implementation of a merkle tree for class. You will nee to be on linux to run it. go to
+An implementation of a merkle tree for class. 
+
+You will nee to be on linux to run it. 
+
+md5sum comes pre-installed on most Linux distrubutions.
+
+Open terminal and type $ md5sum filename.txt 
+to check if you have it.
 
 https://www.howtoforge.com/tutorial/how-to-install-openssl-from-source-on-linux/
 
@@ -26,3 +33,5 @@ file10.c
 to run the test function in the program. It needs to be in the same folder as the code. The test function will hash those files to make a Merkle Tree.
 
 The file you will insert also need to be in the same folder as the code. Make sure to enter the full name when you insert a file. For example, to insert file.c, enter file.c.
+
+Note: md5 hashes the contents of files, not file names. 
