@@ -25,4 +25,4 @@ file10.c
 
 to run the test function in the program. It needs to be in the same folder as the code. The test function will hash those files to make a Merkle Tree.
 
-The file you will insert also need to be in the same folder as the code. Make sure to enter the full name when you insert a file. FOr example, to insert file.c, enter file.c.
+The file you will insert also need to be in the same folder as the code. Make sure to enter the full name when you insert a file. For example, to insert file.c, enter file.c.
